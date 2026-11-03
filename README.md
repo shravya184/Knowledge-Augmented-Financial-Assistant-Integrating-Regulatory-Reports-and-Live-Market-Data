@@ -169,9 +169,9 @@ The FAISS database is used for RBI report retrieval. Ensure the index files are 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Trinadh555/Knowledge-Augmented-Financial-Assistant.git
+git clone https://github.com/shravya184/Knowledge-Augmented-Financial-Assistant-Integrating-Regulatory-Reports-and-Live-Market-Data.git
 
-cd Knowledge-Augmented-Financial-Assistant
+cd Knowledge-Augmented-Financial-Assistant-Integrating-Regulatory-Reports-and-Live-Market-Data
 ```
 
 If you are using your own GitHub repository, replace the repository URL with your repository's URL.
