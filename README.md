@@ -306,11 +306,10 @@ Generated responses are not financial advice, investment recommendations, or gua
 
 ## Author
 
-Add your name and professional links here:
+Add your professional links here:
 
-- **Name:** Your Name
-- **GitHub:** Your GitHub profile URL
-- **LinkedIn:** Your LinkedIn profile URL
+- **GitHub:** https://github.com/shravya184/
+- **LinkedIn:** https://www.linkedin.com/in/shravya-dharshanala-197207339/
 
 ---
 
