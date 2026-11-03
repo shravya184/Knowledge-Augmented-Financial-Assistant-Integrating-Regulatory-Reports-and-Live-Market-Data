@@ -1,0 +1,10 @@
+streamlit
+yfinance
+python-dotenv
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-core
+langgraph
+faiss-cpu
+sentence-transformers
